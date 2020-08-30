@@ -68,7 +68,7 @@
         loop
         controls
         
->Video1</video>
+>Your browser does not support the video type. Please look at the 'Screen Recording 2020-08-30 at 4.40.54 AM.mov' video in the images folder of this repository.</video>
 
 <h4>Screen recording after implementing state management. Keep an eye on the products/ and shopping-cart/ API calls in the developer tools. We can see that there is no recurring API calls as the user enters/leaves the products page and shopping cart page.</h4>
 <video  src="./images/Screen Recording 2020-08-30 at 4.20.42 AM.mov"
@@ -76,4 +76,4 @@
         loop
         controls
         
->Video2</video>
+>Your browser does not support the video type. Please look at the 'Screen Recording 2020-08-30 at 4.20.42 AM.mov' video in the images folder of this repository.</video>
